@@ -1,0 +1,3 @@
+/home/ylm/project/Server/build/CMakeFiles/rebuild_cache.dir
+/home/ylm/project/Server/build/CMakeFiles/edit_cache.dir
+/home/ylm/project/Server/build/CMakeFiles/Server.dir

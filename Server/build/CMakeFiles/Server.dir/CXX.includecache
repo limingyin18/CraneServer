@@ -1,0 +1,28 @@
+#IncludeRegexLine: ^[ 	]*[#%][ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+/home/ylm/project/Server/server.cpp
+cstdio
+-
+cstring
+-
+cstdlib
+-
+sys/socket.h
+-
+sys/unistd.h
+-
+sys/types.h
+-
+sys/errno.h
+-
+netinet/in.h
+-
+signal.h
+-
+

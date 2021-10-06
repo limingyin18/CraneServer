@@ -1,0 +1,7 @@
+[
+{
+  "directory": "/home/ylm/project/Server/build",
+  "command": "/bin/c++      -std=c++2a -o CMakeFiles/Server.dir/server.cpp.o -c /home/ylm/project/Server/server.cpp",
+  "file": "/home/ylm/project/Server/server.cpp"
+}
+]
